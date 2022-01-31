@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.eoluwakayode34.keystone"
     },
     "web": {
       "favicon": "./assets/favicon.png"
